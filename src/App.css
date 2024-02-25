@@ -32,3 +32,33 @@
 .story-details span {
   margin-right: 10px;
 }
+
+.comment {
+  background-color: #f6f6ef;
+  border: 1px solid #e6e6df;
+  padding: 10px;
+  margin-bottom: 5px;
+}
+
+.comment-text {
+  margin-bottom: 10px;
+}
+
+.children {
+  border-left: 4px solid #ff6600;
+  padding-left: 10px;
+}
+
+.comments-section {
+  text-align: left;
+}
+
+.comments-link {
+  color: #828282;
+  cursor: pointer;
+  margin-right: 10px;
+}
+
+.comments-link:hover {
+  text-decoration: underline;
+}
